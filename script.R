@@ -1,6 +1,6 @@
 # script of main code
 # note that the study not specified to facilitate change in the code
-
+#Muito bom esse trabalho, estou orgulhoso
 source("Requirements.R")
 source("funcoes/Functions.R")
 
