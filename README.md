@@ -33,18 +33,18 @@ Dendrograma gerado com a funcao diana
 
 ![dendroDiana](https://github.com/jtemporal/recDePadroes2015/blob/master/plots/dendro-Diana-cloredLeaf.jpg)
 
--------------------
+-------------------------
 Contribuidores:
--------------------
+-------------------------
 * [Jessica Temporal](https://github.com/jtemporal)
 * [Raissa de F. Poch](https://github.com/raissapoch)
 * [Wilbert Dener](https://github.com/wilbertdener)
  
 
 
--------------------
+--------------------------
 IMPORTANTE
--------------------
+--------------------------
 Se estiver rodando o script no linux você precisa ter as seguintes bibliotecas instaladas:
 - XML
 - Curl
